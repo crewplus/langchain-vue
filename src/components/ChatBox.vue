@@ -58,7 +58,7 @@ export default {
       currentConverse: {},
 
       quickList: [
-        { text: '我是GPT助手，您想了解什么问题。' },
+        { text: 'I am GPT helper，ask me your questions。' },
         { text: '您可以和名人文集对话，目前收录了《毛选》' },
       ]
     }
