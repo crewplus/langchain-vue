@@ -26,7 +26,8 @@ https://github.com/gptaibox/langchain-vue/assets/20916783/94761082-a33f-45d7-922
 
 In this starter project, we are using https://api.lib2gpt.com as langchain server with api-key which would be expired after 15 days.
 If you want to try, please get runnable api-key via join our wechat group or emailto: service@gptaibox.com .
-![Weixin Image_20230801225203](https://github.com/gptaibox/langchain-vue/assets/20916783/32df331f-b61d-43da-9a1d-2f99005b66c4)
+
+<img src="https://github.com/gptaibox/langchain-vue/assets/20916783/32df331f-b61d-43da-9a1d-2f99005b66c4" width = "200" height = "300" alt="join us" align=center />
 
 You may also setup your own server for langchain's ChatOpenAI w. SSE, the server side code can be downloaded here: https://github.com/sugarforever/LangChain-Tutorials/tree/main/StreamChat, the author's code is neat and clean.
 
