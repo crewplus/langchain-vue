@@ -16,6 +16,10 @@ You can easily extend this starter project to support following scenarios:
 
 - Chat via langchain's ChatOpenAI, no vectorstore is used. 
 
+
+https://github.com/gptaibox/langchain-vue/assets/20916783/94761082-a33f-45d7-922f-4179c0301d16
+
+
 - Chat via langchain's Conversational Retrieval QA, vectorstore is used.
 
 ## Backend Server and API key
