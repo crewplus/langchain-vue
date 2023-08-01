@@ -16,8 +16,7 @@ You can easily extend this starter project to support following scenarios:
 
 - Chat via langchain's ChatOpenAI, no vectorstore is used. 
 
-
-https://github.com/gptaibox/langchain-vue/assets/20916783/94761082-a33f-45d7-922f-4179c0301d16
+![langchain-streaming-vue](https://github.com/gptaibox/langchain-vue/assets/20916783/1465b123-e287-4b77-b6da-fe2897650db6)
 
 
 - [Coming] Chat via langchain's Conversational Retrieval QA, vectorstore is used.
