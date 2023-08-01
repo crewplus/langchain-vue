@@ -57,3 +57,6 @@ In this starter project, vue version is 2.6.x, and for compatability vue-i18n@8.
 npm install vue-i18n@8.2.1 --save
 ```
 If you are using different vue version, please change vue-i18n version accordingly
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
