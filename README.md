@@ -23,10 +23,7 @@ You can easily extend this starter project to support following scenarios:
 
 ## Backend Server and API key
 
-In this starter project, we are using https://api.lib2gpt.com as langchain server with api-key which would be expired after 15 days.
-If you want to try, please get runnable api-key via join our wechat group or emailto: service@gptaibox.com .
-
-You may also setup your own server for langchain's ChatOpenAI w. SSE, the server side code can be downloaded here: https://github.com/sugarforever/LangChain-Tutorials/tree/main/StreamChat, the author's code is neat and clean.
+You may setup your own server for langchain's ChatOpenAI w. SSE, the server side code can be downloaded here: https://github.com/sugarforever/LangChain-Tutorials/tree/main/StreamChat, the author's code is neat and clean.
 
 ## Project setup
 ```
